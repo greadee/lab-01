@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Connor Proulx`
+- **CCID:** `cwproul1`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+W3 Schools - Java Classes and Objects: https://www.w3schools.com/java/java_classes.asp
 
 ## Verbal Collaboration
 
